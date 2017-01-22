@@ -2,4 +2,6 @@
 天気画像をポストするSlack Bot
 
 ## 使い方
-![image](https://cloud.githubusercontent.com/assets/5409723/22180416/701f3a1e-e0b3-11e6-85bc-654cc3c6b014.png)
+post.pyを実行すると現在の東京の雨雲の様子をポストします。
+
+![image](https://cloud.githubusercontent.com/assets/5409723/22181906/35937e7e-e0da-11e6-982f-40c87ccc5c57.png)
